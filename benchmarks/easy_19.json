@@ -1,0 +1,4 @@
+{
+  "name": "Simple RC Oscillator with MOSFET Switch",
+  "description": "Uses a resistor, capacitor, and a MOSFET acting as a switch to generate oscillations."
+}

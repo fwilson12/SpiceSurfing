@@ -1,0 +1,4 @@
+{
+  "name": "Voltage-Controlled Oscillator (VCO)",
+  "description": "An oscillator whose frequency is controlled by an input voltage, using MOSFETs in the timing circuit."
+}

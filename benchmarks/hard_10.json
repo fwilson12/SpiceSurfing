@@ -1,0 +1,4 @@
+{
+  "name": "Bandgap Voltage Reference with Temperature Compensation",
+  "description": "An improved voltage reference circuit that compensates for temperature variations using additional transistors and diodes."
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Sample and Hold Circuit",
+  "description": "Utilizes a MOSFET as a switch and a capacitor to sample an analog voltage and hold it for a period."
+}

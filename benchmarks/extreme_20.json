@@ -1,0 +1,4 @@
+{
+  "name": "Data Encryption Circuit (AES)",
+  "description": "Hardware implementation of encryption algorithms requiring complex combinational and sequential logic circuits."
+}

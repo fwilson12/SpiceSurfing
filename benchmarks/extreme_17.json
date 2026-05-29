@@ -1,0 +1,4 @@
+{
+  "name": "Neural Network Hardware Accelerator (Simplified)",
+  "description": "Implements neural network computations in hardware using arrays of multipliers and adders."
+}

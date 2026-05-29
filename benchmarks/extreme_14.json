@@ -1,0 +1,4 @@
+{
+  "name": "Class D Audio Amplifier",
+  "description": "Uses MOSFETs as switches in a PWM configuration to achieve high-efficiency audio amplification."
+}

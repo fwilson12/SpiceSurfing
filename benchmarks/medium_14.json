@@ -1,0 +1,4 @@
+{
+  "name": "Gilbert Cell Mixer",
+  "description": "An analog multiplier circuit used in RF applications, implemented using differential pairs and current sources."
+}

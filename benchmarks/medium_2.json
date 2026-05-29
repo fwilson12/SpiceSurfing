@@ -1,0 +1,4 @@
+{
+  "name": "2-to-4 Decoder",
+  "description": "Converts 2-bit binary input to four unique outputs. Realized using NMOS and PMOS transistors to create the necessary logic gates."
+}

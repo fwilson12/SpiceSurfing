@@ -1,0 +1,4 @@
+{
+  "name": "Pulse Width Modulator (PWM)",
+  "description": "Generates a pulse width proportional to an input voltage using comparators and a ramp generator implemented with MOSFETs."
+}

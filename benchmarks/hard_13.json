@@ -1,0 +1,4 @@
+{
+  "name": "Low-Noise Amplifier (LNA)",
+  "description": "Amplifies weak signals with minimal added noise. Uses MOSFETs biased in optimal regions and noise-matching techniques."
+}

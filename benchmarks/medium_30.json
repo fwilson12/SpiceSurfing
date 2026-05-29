@@ -1,0 +1,4 @@
+{
+  "name": "Dual Slope Integrator",
+  "description": "Integrates an input signal over time using a MOSFET-based switch and capacitor, commonly used in precise ADCs."
+}

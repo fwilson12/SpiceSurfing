@@ -1,0 +1,4 @@
+{
+  "name": "Frequency Synthesizer with Phase Noise Optimization",
+  "description": "A PLL-based circuit designed to minimize phase noise, involving intricate loop filter designs and high-performance VCOs."
+}

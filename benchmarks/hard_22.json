@@ -1,0 +1,4 @@
+{
+  "name": "Gilbert Cell Mixer with Gain Control",
+  "description": "An RF mixer that includes additional transistors to adjust gain, improving performance in communication systems."
+}

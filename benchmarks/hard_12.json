@@ -1,0 +1,4 @@
+{
+  "name": "4-bit Arithmetic Logic Unit (ALU)",
+  "description": "Performs arithmetic and logic operations. Combines adders, logic gates, and multiplexers in CMOS logic."
+}

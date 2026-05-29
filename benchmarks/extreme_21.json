@@ -1,0 +1,4 @@
+{
+  "name": "Switched-Mode Power Supply Controller",
+  "description": "Controls MOSFET switches to regulate output voltage in a switched-mode power supply, involving PWM generation and feedback loops."
+}

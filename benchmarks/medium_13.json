@@ -1,0 +1,4 @@
+{
+  "name": "Low Dropout Regulator (LDO)",
+  "description": "Provides a regulated output voltage using a PMOS pass transistor and error amplifier to control gate voltage."
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Operational Amplifier (Op-Amp)",
+  "description": "A multi-stage amplifier including differential input stage, gain stage, and output stage, using MOSFETs throughout."
+}

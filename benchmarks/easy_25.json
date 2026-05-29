@@ -1,0 +1,4 @@
+{
+  "name": "Logic Level Converter",
+  "description": "Converts logic levels between different voltage domains using NMOS and PMOS transistors arranged appropriately."
+}

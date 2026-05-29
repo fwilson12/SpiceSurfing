@@ -1,0 +1,4 @@
+{
+  "name": "Charge Pump Phase-Locked Loop",
+  "description": "A PLL that uses a charge pump circuit (with MOSFET switches) to adjust the control voltage for the VCO."
+}

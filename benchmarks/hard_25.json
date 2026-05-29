@@ -1,0 +1,4 @@
+{
+  "name": "Exponential Current Source",
+  "description": "Generates a current that is an exponential function of the input voltage, useful in function generators."
+}

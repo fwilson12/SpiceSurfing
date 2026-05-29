@@ -1,0 +1,4 @@
+{
+  "name": "Transmission Gate",
+  "description": "Comprises one NMOS and one PMOS transistor in parallel, controlled by complementary gate voltages. Acts as a bidirectional switch with minimal resistance when enabled."
+}

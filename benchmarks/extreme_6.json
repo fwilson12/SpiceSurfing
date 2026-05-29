@@ -1,0 +1,4 @@
+{
+  "name": "Integrated Voltage Regulator with Multiple Outputs",
+  "description": "Manages several regulated outputs with load regulation and protection features, using multiple control loops and power MOSFETs."
+}

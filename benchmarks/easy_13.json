@@ -1,0 +1,4 @@
+{
+  "name": "Schmitt Trigger",
+  "description": "A comparator circuit with hysteresis implemented using CMOS transistors. Provides noise immunity by introducing two different threshold voltages."
+}

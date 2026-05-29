@@ -1,0 +1,4 @@
+{
+  "name": "Pass Transistor Logic",
+  "description": "Uses NMOS transistors to pass logic levels. Gate controls the conduction between drain and source, allowing signal flow when enabled."
+}

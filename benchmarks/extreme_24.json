@@ -1,0 +1,4 @@
+{
+  "name": "High-Speed Serializer",
+  "description": "Converts parallel data into high-speed serial data streams, requiring precise timing and signal integrity management."
+}

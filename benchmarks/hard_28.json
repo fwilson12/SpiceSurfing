@@ -1,0 +1,4 @@
+{
+  "name": "Analog Phase Shifter",
+  "description": "Shifts the phase of an analog signal using all-pass filter configurations with MOSFETs."
+}

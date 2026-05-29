@@ -1,0 +1,4 @@
+{
+  "name": "Quadrature Oscillator",
+  "description": "Generates two sinusoidal outputs 90 degrees out of phase. Uses integrator and inverter stages with MOSFETs."
+}

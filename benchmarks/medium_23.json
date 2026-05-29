@@ -1,0 +1,4 @@
+{
+  "name": "Active Filter (Low-Pass Filter)",
+  "description": "Uses MOSFETs in amplifier configurations to achieve desired frequency responses, allowing for signal filtering."
+}

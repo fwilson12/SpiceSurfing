@@ -1,0 +1,4 @@
+{
+  "name": "Clamped MOSFET Switch",
+  "description": "A MOSFET switch with additional transistors to protect against voltage spikes and ensure proper operation."
+}

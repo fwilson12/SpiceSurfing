@@ -1,0 +1,4 @@
+{
+  "name": "Instrumentation Amplifier",
+  "description": "Amplifies small differential signals with high common-mode rejection. Uses multiple op-amp stages built with MOSFETs."
+}

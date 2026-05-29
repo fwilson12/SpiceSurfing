@@ -1,0 +1,4 @@
+{
+  "name": "CMOS NAND Gate",
+  "description": "Consists of two PMOS transistors in parallel (connected to Vdd) and two NMOS transistors in series (connected to ground). Output is low only when both inputs are high; otherwise, it's high."
+}

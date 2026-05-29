@@ -1,0 +1,4 @@
+{
+  "name": "D Flip-Flop",
+  "description": "A memory element that captures the value of the D-input on a clock edge. Implemented with transmission gates and inverters in CMOS technology."
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Active Load",
+  "description": "Uses a MOSFET configured to act as a dynamic resistor, providing better performance than passive resistors in amplifier circuits."
+}

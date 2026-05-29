@@ -1,0 +1,4 @@
+{
+  "name": "Pipeline ADC",
+  "description": "A high-speed ADC that processes data through multiple stages (pipelines), each with its own comparators and amplifiers."
+}

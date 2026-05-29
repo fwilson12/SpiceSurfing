@@ -1,0 +1,4 @@
+{
+  "name": "8-bit Multiplexer",
+  "description": "Selects one of eight inputs using select lines. Requires more transmission gates and logic gates compared to a 4:1 MUX."
+}

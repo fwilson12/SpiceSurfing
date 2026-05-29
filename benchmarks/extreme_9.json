@@ -1,0 +1,4 @@
+{
+  "name": "16-bit ALU",
+  "description": "An arithmetic logic unit capable of handling 16-bit operations, requiring extensive use of CMOS gates and multiplexers."
+}

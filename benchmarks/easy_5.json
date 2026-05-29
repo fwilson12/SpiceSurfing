@@ -1,0 +1,4 @@
+{
+  "name": "SR Latch",
+  "description": "Implemented using cross-coupled CMOS NOR or NAND gates. Stores a single bit of data, changing state based on set and reset inputs."
+}

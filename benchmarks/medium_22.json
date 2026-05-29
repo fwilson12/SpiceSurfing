@@ -1,0 +1,4 @@
+{
+  "name": "RC Oscillator with MOSFET-based Amplifier",
+  "description": "Utilizes a resistor-capacitor network and a MOSFET amplifier to create a sinusoidal oscillator."
+}

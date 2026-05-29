@@ -1,0 +1,4 @@
+{
+  "name": "High-Frequency Oscillator",
+  "description": "Generates high-frequency signals using LC tanks and MOSFET amplifiers, requiring careful transistor layout for performance."
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Level Shifter with Cascode",
+  "description": "Transfers signals between different voltage levels while protecting transistors from high voltages using cascode configurations."
+}

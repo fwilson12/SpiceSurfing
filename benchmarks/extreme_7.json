@@ -1,0 +1,4 @@
+{
+  "name": "Digital Signal Processor (DSP) Core (Simplified)",
+  "description": "Performs complex mathematical operations on digital signals. Includes multipliers, adders, and accumulators implemented with CMOS logic."
+}

@@ -1,0 +1,4 @@
+{
+  "name": "32-bit Shift Register",
+  "description": "A large shift register for data storage, involving many flip-flops and control logic."
+}

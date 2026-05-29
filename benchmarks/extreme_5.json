@@ -1,0 +1,4 @@
+{
+  "name": "High-Frequency PLL with Loop Filters",
+  "description": "A PLL operating at high frequencies, requiring precise MOSFET implementations in the VCO and phase detector."
+}

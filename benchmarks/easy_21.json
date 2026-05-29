@@ -1,0 +1,4 @@
+{
+  "name": "Voltage-Controlled Resistor",
+  "description": "A MOSFET operated in the linear region, where the resistance between drain and source is controlled by the gate voltage."
+}

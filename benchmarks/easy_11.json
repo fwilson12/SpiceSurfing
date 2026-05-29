@@ -1,0 +1,4 @@
+{
+  "name": "Level Shifter",
+  "description": "Translates voltage levels between circuits using NMOS and PMOS transistors arranged to handle different voltage domains."
+}

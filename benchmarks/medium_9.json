@@ -1,0 +1,4 @@
+{
+  "name": "CMOS Multiplexer (4:1)",
+  "description": "Selects one of four inputs to pass to the output based on two select lines. Implemented using transmission gates and logic gates."
+}

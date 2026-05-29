@@ -1,0 +1,4 @@
+{
+  "name": "Voltage-Controlled Attenuator",
+  "description": "Adjusts signal amplitude based on a control voltage using MOSFETs as variable resistors."
+}

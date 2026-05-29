@@ -1,0 +1,4 @@
+{
+  "name": "Half-Adder",
+  "description": "Combines XOR and AND gates (implemented in CMOS) to perform single-bit addition, outputting sum and carry bits."
+}

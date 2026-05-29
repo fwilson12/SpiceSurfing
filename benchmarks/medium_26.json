@@ -1,0 +1,4 @@
+{
+  "name": "Programmable Gain Amplifier",
+  "description": "Adjusts gain through MOSFET switches that select different feedback paths in an amplifier circuit."
+}

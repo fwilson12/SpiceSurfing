@@ -1,0 +1,4 @@
+{
+  "name": "Voltage-Controlled Filter",
+  "description": "Adjusts filter characteristics based on a control voltage using MOSFETs as variable resistors in filter networks."
+}

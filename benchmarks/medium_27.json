@@ -1,0 +1,4 @@
+{
+  "name": "Constant-Gm Bias Circuit",
+  "description": "Maintains constant transconductance over temperature and process variations using MOSFETs in feedback configurations."
+}

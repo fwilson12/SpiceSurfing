@@ -1,0 +1,4 @@
+{
+  "name": "Pull-Up/Pull-Down Network",
+  "description": "Networks of PMOS (pull-up) or NMOS (pull-down) transistors used in CMOS logic to drive output nodes to Vdd or ground."
+}

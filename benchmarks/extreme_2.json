@@ -1,0 +1,4 @@
+{
+  "name": "Sigma-Delta ADC",
+  "description": "A high-resolution ADC using oversampling and noise shaping, comprising integrators, comparators, and digital filters with numerous MOSFETs."
+}

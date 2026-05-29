@@ -1,0 +1,4 @@
+{
+  "name": "Voltage-to-Frequency Converter",
+  "description": "Converts input voltage levels into proportional frequency outputs using oscillators and voltage-controlled elements."
+}

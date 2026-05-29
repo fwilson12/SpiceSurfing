@@ -1,0 +1,4 @@
+{
+  "name": "Basic Charge Pump",
+  "description": "Uses MOSFETs and capacitors to generate higher voltages from a lower supply voltage through charge transfer."
+}

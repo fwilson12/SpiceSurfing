@@ -1,0 +1,4 @@
+{
+  "name": "Successive Approximation Register (SAR) ADC",
+  "description": "Converts analog signals to digital by approximating each bit. Uses a DAC, comparator, and control logic, all implemented with MOSFETs."
+}
